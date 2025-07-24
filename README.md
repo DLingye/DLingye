@@ -1,6 +1,6 @@
 - 👋 Hi, I’m DONGFANG Lingye
 - 👀 I’m interested in computer,Vocaloid music ...
-- 🌱 I’m currently study in senior high
+- 🌱 I’m currently study in University
 
 <!---
 DLingye/DLingye is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
